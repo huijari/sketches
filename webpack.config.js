@@ -16,8 +16,8 @@ const plugins = sketches.map(
     new Html({
       sketch,
       inject: false,
-      template: 'sketch/template.html',
-      filename: `sketch/${sketch}/index.html`
+      template: 'sketch.html',
+      filename: `${sketch}/index.html`
     })
 )
 

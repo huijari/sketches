@@ -1,7 +1,8 @@
 const Html = require('html-webpack-plugin')
 
 const sketches = [
-  'hashes'
+  'hashes',
+  'links'
 ]
 
 const entry = './index'

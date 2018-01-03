@@ -5,6 +5,7 @@ const sketches = [
   'bros',
   'curve',
   'division',
+  'grow',
   'hashes',
   'links',
   'spacemap'

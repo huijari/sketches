@@ -1,9 +1,10 @@
 const Html = require('html-webpack-plugin')
 
 const sketches = [
-  'spacemap',
+  'curve',
   'hashes',
-  'links'
+  'links',
+  'spacemap'
 ]
 
 const entry = './index'

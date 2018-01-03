@@ -1,6 +1,7 @@
 const Html = require('html-webpack-plugin')
 
 const sketches = [
+  'spacemap',
   'hashes',
   'links'
 ]

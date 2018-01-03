@@ -2,6 +2,7 @@ const Html = require('html-webpack-plugin')
 
 const sketches = [
   'curve',
+  'division',
   'hashes',
   'links',
   'spacemap'

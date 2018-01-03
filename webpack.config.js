@@ -8,7 +8,8 @@ const sketches = [
   'grow',
   'hashes',
   'links',
-  'spacemap'
+  'spacemap',
+  'vera'
 ]
 
 const entry = './index'

@@ -1,6 +1,7 @@
 const Html = require('html-webpack-plugin')
 
 const sketches = [
+  '4and3',
   'curve',
   'division',
   'hashes',

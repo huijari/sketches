@@ -4,7 +4,7 @@ function setup() {
   createCanvas(innerWidth, innerHeight)
 
   background('#FFF6B7')
-  stroke('white')
+  stroke('#444444')
   strokeWeight(2)
 
   ellipseMode(RADIUS)
@@ -27,13 +27,10 @@ function* circles(initialAngle) {
   let angle = initialAngle
 
   fill('#F6416C')
-  stroke('#444')
   ellipse(center[0], center[1], radius, radius)
   yield
 
-  fill('#FFF6B7')
-  fill('#fff')
-  stroke('#444')
+  fill('#FFFFFF')
   for (let i = 0; i < 15; i++) {
     const length = 1.666 * radius
     radius /= 1.5

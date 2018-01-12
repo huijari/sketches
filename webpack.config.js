@@ -8,6 +8,7 @@ const sketches = [
   'grow',
   'hashes',
   'links',
+  'polar',
   'spacemap',
   'vera'
 ]
